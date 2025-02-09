@@ -1,1 +1,14 @@
-3.6.12
+{
+  "embeds": [
+    {
+      "type": "link",
+      "url": "https://calbearox.github.io/potential-money/",
+      "title": "Jamstack",
+      "description": "Slott-Machine",
+      "color": 3487029,
+      "provider": {
+        "name": "potential-money"
+      }
+    }
+  ]
+}
